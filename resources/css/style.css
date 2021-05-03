@@ -1,0 +1,22 @@
+.header{
+    background-color: black;
+}
+.nav li{
+    display: inline;
+}
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    list-style-position: inside;
+    text-align: right;
+  }
+  .title-text{
+      background-image: url("../images/backgrounds/trees.jpg");
+      color: black;
+      text-align: center;
+      padding-top: 100px;
+      padding-bottom: 100px;
+  }
+  .main-article{
+      background-color:lightsalmon;
+  }
